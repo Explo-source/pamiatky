@@ -1,23 +1,26 @@
 [
   {
+    "id": "oravsky_hrad",
     "nazov": "Oravský hrad",
     "lat": 49.2610,
     "lng": 19.3582,
-    "obrazok": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Orava_Castle.jpg",
+    "obrazok": "images/Oravsky_hrad.jpg",
     "popis": "Oravský hrad patrí medzi najkrajšie hrady na Slovensku. Postavený je na strmej skale nad riekou Orava."
   },
   {
-    "nazov": "Múzeum Oravskej dediny (Zuberec)",
+    "id": "muzeum_oravskej_dediny",
+    "nazov": "Múzeum oravskej dediny (Zuberec)",
     "lat": 49.2591,
     "lng": 19.6286,
-    "obrazok": "https://www.oravskemuzeum.sk/wp-content/uploads/2020/02/muzeum_dediny.jpg",
+    "obrazok": "images/muzeum_zuberec.jpg",
     "popis": "Skansen v Zuberci predstavujúci tradičnú ľudovú architektúru a život na Orave."
   },
   {
+    "id": "klin_kristus",
     "nazov": "Socha Krista v Klin",
     "lat": 49.3456,
     "lng": 19.5010,
-    "obrazok": "https://upload.wikimedia.org/wikipedia/commons/0/09/Klin_-_Christusstatue.jpg",
+    "obrazok": "images/klin_kristus.jpg",
     "popis": "Najväčšia socha Krista na Slovensku, inšpirovaná známou sochou v Rio de Janeiro."
   }
 ]
