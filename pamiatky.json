@@ -1,26 +1,29 @@
-[
-  {
-    "id": "oravsky_hrad",
-    "nazov": "Oravský hrad",
-    "lat": 49.2610,
-    "lng": 19.3582,
-    "obrazok": "images/Oravsky_hrad.jpg",
-    "popis": "Oravský hrad patrí medzi najkrajšie hrady na Slovensku. Postavený je na strmej skale nad riekou Orava."
-  },
-  {
-    "id": "muzeum_oravskej_dediny",
-    "nazov": "Múzeum oravskej dediny (Zuberec)",
-    "lat": 49.2591,
-    "lng": 19.6286,
-    "obrazok": "images/muzeum_zuberec.jpg",
-    "popis": "Skansen v Zuberci predstavujúci tradičnú ľudovú architektúru a život na Orave."
-  },
-  {
-    "id": "klin_kristus",
-    "nazov": "Socha Krista v Klin",
-    "lat": 49.3456,
-    "lng": 19.5010,
-    "obrazok": "images/klin_kristus.jpg",
-    "popis": "Najväčšia socha Krista na Slovensku, inšpirovaná známou sochou v Rio de Janeiro."
-  }
-]
+name: explo_11
+description: A new Flutter project.
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.5.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # knižnice ktoré potrebujeme
+  http: ^1.2.2
+  cached_network_image: ^3.3.1
+
+  # základné Flutter ikony
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
